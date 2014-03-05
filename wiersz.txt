@@ -1,0 +1,7 @@
+wiersz1
+wiersz2
+wiersz3
+wiersz4
+wiersz5
+wiersz6
+wiersz7
