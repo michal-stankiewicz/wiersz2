@@ -1,4 +1,5 @@
 wiersz1
+motyla noga
 wiersz2
 wiersz3
 wiersz4
